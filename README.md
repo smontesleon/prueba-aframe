@@ -2,4 +2,4 @@
 
 Muestra una Web con Objetos
 
-* [Web a mostrar](fisica.md)
+* [Web a mostrar](fisica.html)
